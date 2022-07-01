@@ -1,0 +1,100 @@
+
+
+
+.Mybio{
+    width: 400px;
+    height:200px ;
+    background-color:grey;
+    padding:20px;       
+     position: relative;
+     display: inline-block;
+     top: 10px; 
+     left: 5px;  
+    
+    
+    
+} 
+.Mybio:hover{
+    background-color: aqua;
+    transform-style: initial;
+    transition: .2s;
+
+}
+.Myeducationhistory{
+    width: 400px;
+    height: 200px;
+    background-color:blue ;
+    padding:20px;    
+    position:relative;       
+    display: inline-block;
+    top: 250px;
+   
+   
+
+}
+.Myeducationhistory:hover{
+    background-color: azure;
+    transform-style: initial;
+    transition: .2s;
+
+
+}
+.ContactMe{
+    width: 400px;
+    height: 200px;
+    background-color:palevioletred;
+    padding:20px;
+    position:relative;
+    display: inline-block; 
+    top: 250px;
+    left: 445px;
+    right: 45px;
+    
+           
+}
+.ContactMe:hover{
+    background-color: azure;
+    transform-style: initial;
+    transition: .2s;
+}
+.Myphoto{
+    width: 400px;
+    height: 200px;
+    background-color:darkblue;   
+    padding:20px;
+    position: relative;
+    display: inline-block; 
+    top: 8px;
+   right: 3px;
+  
+  
+    
+}
+.Myphoto:hover{
+    background-color:azure ;
+    transform-style: initial;
+    transition: .2s;
+}
+.Myhobbies{
+    width: 400px;
+    height: 200px;
+    background-color: lightblue;
+    position:relative;
+    padding:20px;
+    display: inline-block;
+    top: 250px; 
+}
+.Myhobbies:hover{
+    background-color: black;
+    transform-style: initial;
+    transition: .2s;
+
+}
+
+
+   
+    
+
+
+
+
